@@ -4,8 +4,8 @@
 	<description>Cordova Plugin for Lifecycle of Application's Events, including Terminate and Destroy</description>
 	<license>MIT</license>
 	<keywords>cordova,events,terminate,destroy,exit,lifecycle</keywords>
-	<repo>https://github.com/mgatto/cordova-plugin-lifecycle-app-events.git</repo>
-	<issue>https://github.com/mgatto/cordova-plugin-lifecycle-app-events-/issues</issue>
+	<repo>https://github.com/developer-psucoop/cordova-plugin-lifecycle-app-events</repo>
+	<issue>https://github.com/developer-psucoop/cordova-plugin-lifecycle-app-events/issues</issue>
 
 	<!-- android -->
 	<platform name="android">
