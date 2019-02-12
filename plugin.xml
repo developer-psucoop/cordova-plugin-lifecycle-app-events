@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <plugin id="cordova-plugin-lifecycle-app-events" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
-	<name>CordovaPluginLifeycleAppEvents</name>
+	<name>CordovaPluginLifceycleAppEvents</name>
 	<description>Cordova Plugin for Lifecycle of Application's Events, including Terminate and Destroy</description>
 	<license>MIT</license>
 	<keywords>cordova,events,terminate,destroy,exit,lifecycle</keywords>
