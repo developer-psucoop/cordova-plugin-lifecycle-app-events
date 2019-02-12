@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-lifecycle-app-events",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for Lifecycle of Application's Events, including Terminate and Destroy",
+  "cordova": {
+    "id": "cordova-plugin-lifecycle-app-events",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developer-psucoop/cordova-plugin-lifecycle-app-events"
+  },
+  "keywords": [
+    "cordova",
+    "destroy",
+    "lifecycle",
+    "event",
+    "exit",
+    "terminate",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "psucoop",
+  "license": "MIT",
+  "homepage": "https://github.com/developer-psucoop/cordova-plugin-lifecycle-app-events#readme"
+}
